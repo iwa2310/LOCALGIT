@@ -2,3 +2,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 ’Ç‰Á‚Qs–Ú
 ’Ç‰Á‚Rs–Ú
 ’Ç‰Á‚Ss–Ú
+add 5 line  git status
